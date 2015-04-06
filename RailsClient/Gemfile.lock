@@ -71,7 +71,7 @@ GEM
     factory_girl_rails (4.5.0)
       factory_girl (~> 4.5.0)
       railties (>= 3.0.0)
-    grape (0.11.0)
+    grape (0.9.0)
       activesupport
       builder
       hashie (>= 2.1.0)
@@ -225,7 +225,7 @@ DEPENDENCIES
   database_cleaner
   devise
   factory_girl_rails (~> 4.0)
-  grape
+  grape (~> 0.9.0)
   jbuilder (~> 2.0)
   jquery-rails
   mysql2
