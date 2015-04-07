@@ -43,7 +43,7 @@ gem 'devise'
 gem 'cancan'
 
 # For API
-gem 'grape'
+gem 'grape', '~> 0.99.0'
 gem 'rack-oauth2'
 
 # For test
